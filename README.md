@@ -87,7 +87,7 @@ Talk about the key points – *in a logical order* – developing each point ind
 
 Stephanie's system will need to be tailored to her needs, specifically in user experience, compatibility, cost, effectiveness, and security.
 
-Stephanie will not have much money to spend on this system as she has only just set up her own business. She'll need to balance the cost of the system along with is efficiency and usability in her common tasks (code compilation, 3D design, and version control). She can save a lot of money by purchasing components separately and assembling a system herself, as opposed to purchasing a prebuilt system.
+Stephanie will not have much money to spend on this system as she has only just set up her own business. She'll need to balance the cost of the system along with is efficiency and usability in her common tasks (code compilation, 3D design, and version control). She can save a lot of money by purchasing components separately and assembling a system herself, as opposed to purchasing a prebuilt system, as well as avoiding possible bloatware and other preinstalled software on OEM desktops.
 
 Code compilation times should be as low as possible (within reason) to provide less "empty time" (time where nothing can be done while waiting for code to compile). For this, a multi-core processor is important. This allows the code to be compiled in parallel, resulting in much faster compile times than a single-core processor. An idea CPU would be at least 4 cores (with SMT), or 6 cores (without SMT).
 
