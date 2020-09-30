@@ -20,5 +20,7 @@ Providing an account of something, or highlight a number of key features of a gi
 >
 > Describe how **one** feature of a graphics tablet helps digital artists with their work.
 
+#### Exemplar response
+
 - graphics tablets support pressure-sensitive and tilt-supported styli
-- styli allow artists to easily reproduce common artistic methods used on paper digitally, such as shading, as well as allowing the artists to reproduce fluid movements and curves which would not be possible with a mouse
+- styli allow artists to easily reproduce common artistic methods used on paper, such as shading, as well as allowing the artists to reproduce fluid movements and curves which would not be possible with a mouse
